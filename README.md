@@ -7,11 +7,11 @@ Used to load a new JAR into memory before killing the currently running JAR.
 
 ## Releases and Dependency Information
 
-* Releases are published to TODO_LINK
+* Releases are published to [Clojars]
 
-* Latest stable release is TODO_LINK
+* Latest stable release is 0.0.1-SNAPSHOT
 
-* All released versions TODO_LINK
+* [All released versions](https://clojars.org/net.candland/reload)
 
 [Leiningen] dependency information:
 
@@ -25,9 +25,9 @@ Used to load a new JAR into memory before killing the currently running JAR.
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
 
+[Clojars]: https://clojars.org/
 [Leiningen]: http://leiningen.org/
 [Maven]: http://maven.apache.org/
-
 
 
 ## Usage
