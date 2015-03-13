@@ -10,4 +10,6 @@
                  [org.clojure/tools.cli "0.3.1"]
                  [beckon "0.1.1"]]
 
+  :deploy-repositories [["releases" :clojars]]
+
   :profiles {:dev {:source-paths ["dev"]} })
