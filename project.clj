@@ -1,4 +1,4 @@
-(defproject net.candland/reload "0.0.1"
+(defproject net.candland/reload "0.0.1-alpha1"
 
   :description "Used to reload a running JAR and minimize down time."
   :url "https://github.com/candland/reload"
